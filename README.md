@@ -1,2 +1,5 @@
 # DataBaseandGUI_desing
-* bullet
+* ER diagramm and schema
+* SQL Creates and Inserts
+* SQL Selects 
+* GUI implementation
