@@ -1,2 +1,2 @@
 # DataBaseandGUI_desing
-*bullet
+* bullet
