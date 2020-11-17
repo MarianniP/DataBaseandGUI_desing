@@ -1,5 +1,5 @@
 # DataBaseandGUI_desing
 * ER diagramm and Schema Design
-* SQL Creates and Inserts
+* SQL Create and Insert Statments
 * SQL Selects 
 * GUI implementation
